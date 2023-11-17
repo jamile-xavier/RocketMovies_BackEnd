@@ -5,7 +5,7 @@
 <h2 align="center">
 RocketMovies 
 </h2>
-<p align="center"> O Rocketnotes é uma aplicação web para cadastro de filmes. </p>
+<p align="center"> O Rocketmovies é uma aplicação web para cadastro de filmes. </p>
 <p align="center">A aplicação é baseada em modelo disponibilizado no Figma.</p>
 <p align="center">Permite aos usuários a criação de filmes com título, avaliação, observações e marcadores.</p>
 
