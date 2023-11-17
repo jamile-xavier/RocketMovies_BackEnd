@@ -36,6 +36,7 @@ RocketMovies
 # Tecnologias
 
 - [Bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- [Cookie-Parser](https://www.npmjs.com/package/cookie-parser)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Dot Env](https://www.npmjs.com/package/dotenv)
 - [Express](https://expressjs.com/pt-br/)
@@ -43,8 +44,10 @@ RocketMovies
 - [Json Web Token](https://jwt.io/)
 - [Knex](https://knexjs.org/guide/schema-builder.html#createvieworreplace)
 - [Multer](https://www.npmjs.com/package/multer)
+- [MD5 Hash](https://www.md5hashgenerator.com/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [PM2](https://pm2.keymetrics.io/)
+- [Render](https://render.com/)
 - [Jest](https://jestjs.io/pt-BR/)
 - [Sqlite](https://www.sqlite.org/docs.html)
 - [Sqlite 3](https://www.npmjs.com/package/sqlite3)
